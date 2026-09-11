@@ -1,22 +1,14 @@
-{"name": "GUIA PROGRAMACION",
+{"name": "LA LIGA PROGRAMACION (WEB)",
 "author": "SuperVectar",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaGUIA/refs/heads/main/LISTAGUIAPROGRAMACION.m3u",
-"image": "https://i.ibb.co/9C2JDB9/GUIAA.jpg",
+"image": "https://i.ibb.co/7Nt4xSBh/LALIGA.png",
 "telegram": "",
 "groups": [
 
-{ "name": "LA LIGA EA SPORTS",
-"image": "https://i.ibb.co/9C2JDB9/GUIAA.jpg",
-"url": "https://www.laliga.com/donde-ver-laliga-easports" },
+{ "name": "LA LIGA EA SPORTS (WEB)",
+"image": "https://i.ibb.co/bjW3Mhzk/LALIGAEA.png",
+"url": "https://www.laliga.com/donde-ver-laliga-easports"},
 
-{ "name": "LA LIGA HYPERMOTION",
-"image": "https://i.ibb.co/9C2JDB9/GUIAA.jpg",
-"url": "https://www.laliga.com/donde-ver-laliga-hypermotion" },
-
-{"name": "GUIA TV",
-"image": "https://i.ibb.co/9C2JDB9/GUIAA.jpg",
-"url": "https://www.tvguia.es/programacion-tv/programacion-tv-ahora"},
-
-{"name": "GUIA TV",
-"image": "https://i.ibb.co/9C2JDB9/GUIAA.jpg",
-"url": "https://davidmuma.github.io/EPG/"}]}
+{ "name": "LA LIGA HYPERMOTION (WEB)",
+"image": "https://i.ibb.co/tMPJMhPW/LALIGAHYPER.png",
+"url": "https://www.laliga.com/donde-ver-laliga-hypermotion"}]}
