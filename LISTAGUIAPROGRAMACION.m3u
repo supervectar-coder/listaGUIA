@@ -8,12 +8,6 @@
 "stations": 
 [
 { 								
-"name": "Movistar+ no disponible", 								
-"image": "https://i.postimg.cc/J7FMTxpB/movistar-new.png", 								
-"url": "https://www.movistarplus.es/programacion-tv/mplus", 								
-"embed": "true" 							
-}, 
-{ 								
 "name": "LaLiga", 								
 "image": "https://i.postimg.cc/0NV3skxd/laliga.png", 								
 "url": "https://www.futboltv.info/competicion/laliga", 								
