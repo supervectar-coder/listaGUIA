@@ -75,23 +75,28 @@
 "url": "https://www.futbolenlatv.es/competicion/copa-de-la-reina", 								
 "embed": "true" 							
 }, 
-
 { 								
-"name": "EFL Cup", 								
-"image": "https://i.postimg.cc/Dy86HrYZ/efl.png", 								
-"url": "https://www.futbolenlatv.es/competicion/football-league-cup", 								
+"name": "Ligue 1 Francia", 								
+"image": "https://i.postimg.cc/Gt8Q8DNz/ligue1.png", 								
+"url": "https://www.futbolenlatv.es/competicion/ligue-1", 								
 "embed": "true" 							
 }, 
 { 								
-"name": "Premier League", 								
+"name": "Premier League Inglaterra", 								
 "image": "https://i.postimg.cc/SxXynv1h/premier.png", 								
 "url": "https://www.futbolenlatv.es/competicion/premier-league", 								
 "embed": "true" 							
 }, 
 { 								
-"name": "Bundesliga", 								
+"name": "Bundesliga Alemania", 								
 "image": "https://i.postimg.cc/ZqthCKy8/bundesliga.png", 								
 "url": "https://www.futbolenlatv.es/competicion/bundesliga", 								
+"embed": "true" 							
+}, 
+{ 								
+"name": "Bundesliga F Alemania", 								
+"image": "https://i.postimg.cc/ZqthCKy8/bundesliga.png", 								
+"url": "https://www.futbolenlatv.es/competicion/bundesliga-femenina", 								
 "embed": "true" 							
 }, 
 { 								
@@ -107,27 +112,32 @@
 "embed": "true" 							
 }, 
 { 								
-"name": "Serie A", 								
+"name": "Serie A Italia", 								
 "image": "https://i.postimg.cc/L6Vqk5pV/seier-A.png", 								
 "url": "https://www.futbolenlatv.es/competicion/calcio-serie-a", 								
 "embed": "true" 							
 }, 
 { 								
-"name": "Ligue 1", 								
-"image": "https://i.postimg.cc/Gt8Q8DNz/ligue1.png", 								
-"url": "https://www.futbolenlatv.es/competicion/ligue-1", 								
+"name": "Serie A F Italia", 								
+"image": "https://i.postimg.cc/L6Vqk5pV/seier-A.png", 								
+"url": "https://www.futbolenlatv.es/competicion/seria-a-femminile", 								
 "embed": "true" 							
 }, 
 { 								
-"name": "NBA", 								
+"name": "EFL Cup", 								
+"image": "https://i.postimg.cc/Dy86HrYZ/efl.png", 								
+"url": "https://www.futbolenlatv.es/competicion/football-league-cup", 								
+"embed": "true" 							
+}, 
+{ 								
+"name": "NBA baloncesto", 								
 "image": "https://i.ibb.co/ysP3vZt/logo-category-NBA.png", 								
 "url": "https://www.futbolenlatv.es/deporte/baloncesto/competicion/nba", 								
 "embed": "true" 							
 }, 
 { 								
-"name": "Liga Endesa", 								
-"image": "https://as01.epimg.net/baloncesto/imagenes/2017/07/25/acb/1501004759_569854_1501004993_noticia_normal.jpg", 								
-"url": "https://www.futbolenlatv.es/deporte/baloncesto/competicion/liga-endesa", 								
+"name": "Liga Endesa baloncesto", 								
+"image": "https://as01.epimg.net/baloncesto/imagenes/2017/07/25/acb/1501004759_569854_1501004993_noticia_normal.jpg", 				"url": "https://www.futbolenlatv.es/deporte/baloncesto/competicion/liga-endesa", 								
 "embed": "true" 							
 }, 
 { 								
