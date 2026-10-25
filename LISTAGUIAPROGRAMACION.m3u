@@ -10,7 +10,7 @@
 { 								
 "name": "Movistar+ no disponible", 								
 "image": "https://i.postimg.cc/J7FMTxpB/movistar-new.png", 								
-"url": "https://www.movistarplus.es/programacion-tv/", 								
+"url": "https://www.movistarplus.es/programacion-tv/mplus", 								
 "embed": "true" 							
 }, 
 { 								
@@ -161,12 +161,6 @@
 "embed": "true" 							
 }, 
 { 								
-"name": "Boxeo", 								
-"image": "https://i.postimg.cc/1zyKGqQR/diseno-grafico-logotipo-insignia-boxeo-24908-54892.jpg", 								
-"url": "https://izquierdazo.com/seccion/agenda/", 								
-"embed": "true" 							
-}, 
-{ 								
 "name": "Béisbol", 								
 "image": "https://logos-marcas.com/wp-content/uploads/2021/09/MLB-Logo.png", 								
 "url": "https://www.futbolenlatv.es/deporte/beisbol/competicion/major-league-baseball", 								
@@ -200,13 +194,7 @@
 "name": "SBK - Superbike", 								
 "image": "https://i.postimg.cc/qq5dFDTh/sbk-2d-portrait-fullcol-ondark-site-full.jpg", 								
 "url": "https://www.worldsbk.com/es/calendario", 								
-"embed": "true" 							
-}, 
-{ 								
-"name": "Toros", 								
-"image": "https://www.mundotoro.com/wp-content/uploads/2023/12/image00023.jpeg", 								
-"url": "https://elmuletazo.com/agenda-de-toros-en-television", 								
-"embed": "true" 								
+"embed": "true" 													
 }
 ] 							
 } 	
